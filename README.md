@@ -1,4 +1,4 @@
-# PacMan
+# Pac-Man
 Recreation of PacMan Game
 
 - Developed classic arcade-style gameplay, including movement controls for Pac-Man using arrow keys, pellet collection, and score tracking
